@@ -16,5 +16,13 @@ h1{
 }/*id Selector */
  *{
     color: blueviolet;
-    
+
+ }/*Universal Selector */
+ 
+ body{
+    background-image: url("back-img.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode: color;
  }
