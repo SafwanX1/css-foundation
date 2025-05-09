@@ -1,0 +1,20 @@
+h1{
+    color: green;
+    font-size: 70px;
+    
+} /*Element Selector */
+
+.my-text-style{
+    color: red;
+    font-size: 50px
+;
+} /*Class Selector */
+
+#my-id{
+    color: gold;
+    font-weight: 100;
+}/*id Selector */
+ *{
+    color: blueviolet;
+    
+ }
