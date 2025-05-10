@@ -1,0 +1,9 @@
+.my-position{
+    position: fixed;
+    top: 200px;
+    left: 100px;
+    right: 100px;
+    position: relative;
+    position:absolute;
+
+}
