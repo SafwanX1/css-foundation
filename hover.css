@@ -1,5 +1,5 @@
 .my-btn{
-    background-color: red;
+    background-color: red !important;
     border-radius: 6px;
     color: white;
     padding: 30px;
@@ -9,4 +9,13 @@
 
 .my-btn:hover{
     background-color: blue;
+}
+
+.my-btn{
+    background-color:black;
+    border-radius: 6px;
+    color: white;
+    padding: 30px;
+    
+
 }
